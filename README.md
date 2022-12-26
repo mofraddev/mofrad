@@ -21,7 +21,7 @@
     </h4>
   </p>
   
-  <h3>Languages and Tools:</h3>
+  <h3><a href="https://github-readme-stats.vercel.app/api/top-langs?username=mofraddev&amp;show_icons=true&amp;locale=en&amp;layout=compact">Languages and Tools:</a></h3>
   <p>
     <a href="https://www.w3schools.com/php/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40" />
