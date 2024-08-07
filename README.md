@@ -6,7 +6,7 @@
     <a href="https://twitter.com/mofraddev" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofraddev" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/barış-zıbahalat-mofrad-a0b77323b/" target="blank">
+    <a href="https://www.linkedin.com/in/barismofrad/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış zıbahalat mofrad" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/mofraddev" target="blank">
